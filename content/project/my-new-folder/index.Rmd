@@ -1,0 +1,21 @@
+---
+title: My aweseome post
+author: ''
+date: '2020-01-09'
+slug: my-new-folder
+categories: []
+tags:
+  - cool
+  - bark
+  - hike
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-09T15:03:56-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
